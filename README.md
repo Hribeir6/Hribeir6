@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá, meu nome é Henrique Ribeiro
 
-<!--
-**Hribeir6/Hribeir6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou brasileiro, tenho 15 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Comecei a programar com 14
+Desenvolvo alguns projetos de forma voluntária;
+Gosto de criar coisas novas;
+Competidor das Olimpíadas e maratonas de programação.
+
+ 
+
+linguagens e tecnologias:
+HTML5 CSS JavaScript  PostgreSQL  Git Github
