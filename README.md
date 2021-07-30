@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Henrique e Sou estudante de programação , tenho 15 anos e asspirante de tecnologia, procurando novos desafios para que eu possa me desenvolver.
+Meu nome é Henrique e Sou Estudante de programação,tenho 15 anos e aspirante de tecnologia, procurando novos desafios para que eu possa me desenvolver.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ribeiro-3458151b1/)
