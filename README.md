@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Henrique, a Front-End ReactJS Developer. Welcome to my profile.
 
 Meu nome é Henrique e sou Estudante de programação,tenho 16 anos e aspirante de tecnologia, procurando novos desafios para que eu possa me desenvolver.
 
