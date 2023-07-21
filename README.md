@@ -29,6 +29,6 @@ Meu nome é Henrique e sou Estudante de programação,tenho 17 anos e aspirante 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/andreyhitoshi1997)](https://github.com/Hribeir6)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/andreyhitoshi1997)](https://github.com/Hribeir6)
 
-![Snake animation](https://github.com/Hribeir6/Hribeir6/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
