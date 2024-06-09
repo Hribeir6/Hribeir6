@@ -1,12 +1,12 @@
 ### Hi there 👋 
 
-Meu nome é Henrique e sou Estudante de programação,tenho 18 anos e aspirante de tecnologia, procurando novos desafios para que eu possa me desenvolver.
+My name is Henrique and I'm a programming student, I'm 18 years old and aspiring to technology, looking for new challenges so I can develop.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hribeir/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hribeir6@gmail.com)
 
-### Habilidades:
+### skills:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Hribeir6)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Hribeir6)
